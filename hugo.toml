@@ -8,7 +8,7 @@ paginate = 5
 [params]
 themeColor = "green"
 contentTypeName = "posts"
-showMenuItems = 2
+showMenuItems = 3
 fullWidthTheme = false
 centerTheme = true
 
@@ -20,7 +20,7 @@ centerTheme = true
 
 [[languages.en.menu.main]]
   identifier = "posts"
-  name = "Experiments"
+  name = "Posts"
   url = "/posts"
   weight = 1
 
@@ -29,3 +29,9 @@ centerTheme = true
   name = "About"
   url = "/about"
   weight = 2
+  
+[[languages.en.menu.main]]
+  identifier = "ai"
+  name = "Use of AI"
+  url = "/ai"
+  weight = 3

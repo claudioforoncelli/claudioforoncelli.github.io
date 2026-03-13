@@ -1,15 +1,45 @@
 ---
 title: "About"
 date: 2026-03-13
+draft: false
 ---
 
-Welcome to **d1racpuls3**.
+```bash
+claud3@d1racpuls3:~$ whoami
+claud3
+```
 
-This blog documents experiments related to:
+Hi, I'm **claud3**, a master's student in **Cybersecurity Engineering**.
 
-- Software Defined Radio (SDR)
-- Wireless security
-- Physical Layer Security
-- RF signal analysis
+I'm passionate about cybersecurity in general, and I'm currently trying to figure out which **specialization or niche field** fascinates me the most.
 
-All experiments are performed using tools like RTL-SDR, GNU Radio and custom signal processing pipelines.
+At the moment, I find **wireless security and physical layer security** particularly interesting. It’s an area that isn’t talked about as much when people think about cybersecurity, yet it sits at the intersection of **mathematics, physics, signal theory, networking, and computer science**. That combination makes it especially intriguing to me.
+
+But what I enjoy the most is trying to **find ways to "hack" the systems I study** — not necessarily in the malicious sense, but in the sense of understanding them deeply enough to gain control over them and explore how they behave when viewed from a different perspective.
+
+---
+
+## About this blog
+
+This blog is essentially a **technical notebook**.
+
+Here I document experiments, projects, and ideas that intrigue me. Many of them are things that might be a bit unusual in a classroom environment, or topics that go slightly beyond the standard curriculum.
+
+The goal is not only to learn new concepts or technologies, but also to **learn more about myself and what truly interests me within this field**.
+
+Curiosity is the most important thing for me. As long as I keep exploring new ideas, experimenting with new tools, and diving into unfamiliar topics, I know I am moving in the right direction.
+
+---
+
+## Small quirks about me
+
+Outside of cybersecurity:
+
+- I speak three languages: Italian, English, and French
+- I'm currently learning Polish *(Cześć!)*
+- My favorite gym day is leg day (_*hem*_ 100kg squat and 200kg leg press _*hem*_)
+
+And when I'm not studying or experimenting with signals:
+
+- my favorite video games are Life is Strange
+- A Dance of Fire and Ice
