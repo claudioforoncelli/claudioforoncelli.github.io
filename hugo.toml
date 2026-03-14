@@ -8,7 +8,7 @@ paginate = 5
 [params]
 themeColor = "green"
 contentTypeName = "posts"
-showMenuItems = 3
+showMenuItems = 4
 fullWidthTheme = false
 centerTheme = true
 
@@ -17,21 +17,27 @@ centerTheme = true
 [languages.en.params.logo]
   logoText = "claud3@d1racpuls3:~$"
   logoHomeLink = "/"
+  
+ [[languages.en.menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
 
 [[languages.en.menu.main]]
   identifier = "posts"
   name = "Posts"
   url = "/posts"
-  weight = 1
+  weight = 2
 
 [[languages.en.menu.main]]
   identifier = "about"
-  name = "About"
+  name = "About me"
   url = "/about"
-  weight = 2
+  weight = 3
   
 [[languages.en.menu.main]]
   identifier = "ai"
-  name = "Use of AI"
+  name = "AI use"
   url = "/ai"
-  weight = 3
+  weight = 4
